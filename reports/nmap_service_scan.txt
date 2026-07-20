@@ -1,5 +1,0 @@
-hello
-garbage
-done
-bye
-thank you
